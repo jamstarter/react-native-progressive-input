@@ -19,7 +19,7 @@ class ProgressiveInput extends Component {
     clearButtonColor: PropTypes.string,
     clearButtonSize: PropTypes.number,
     clearButtonStyle: PropTypes.object,
-    activityIndicatorStyle: ActivityIndicator.propTypes.style,
+   // activityIndicatorStyle: ActivityIndicator.propTypes.style,
     onBlur: PropTypes.func,
     onChangeText: PropTypes.func,
     onFocus: PropTypes.func,
