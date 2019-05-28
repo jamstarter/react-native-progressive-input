@@ -24,7 +24,7 @@ class ProgressiveInput extends Component {
     onChangeText: PropTypes.func,
     onFocus: PropTypes.func,
     onInputCleared: PropTypes.func,
-    underlineColorAndroid: PropTypes.string,
+    underlineColorAndroid: 'transparent',
   };
 
   static defaultProps = {
